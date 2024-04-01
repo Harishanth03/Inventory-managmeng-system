@@ -1,6 +1,6 @@
 # Urban Council Trincomalee Inventory Management System
 
-This is an inventory management system developed for the Urban Council Trincomalee using Visual Studio C# and a Firebase database frontend. The frontend is designed using the Guna UI framework. The system encompasses various features including:
+This is an inventory management system developed for the Urban Council Trincomalee using Visual Studio C# and a Firebase database and GUNA Ui Framework for the frontend. The frontend is designed using the Guna UI framework. The system encompasses various features including:
 
 - **Login Form:** Allows authorized users to log into the system.
 - **Inventory Management:** Enables the addition, update, delete and tracking the Inventory items.
